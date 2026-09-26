@@ -111,6 +111,7 @@ Skills for working with complex file formats:
 
 
 ### Individual Skills
+- [adversarial-review](https://github.com/RevolutionLA/adversarial-review) - Three-party adversarial code-review loop: hostile blue-team audit with evidence chains, independent third-party re-verification, neutral adjudication. Dogfooded on its own repo — 25 defects caught and closed before the v2.1.0 release.
 
 > These will be broken down into categories once there are enough community skills available to list
 
